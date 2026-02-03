@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Engineer || .NET Developer ||  Competitive Programmer</h3>
+<h3 align="center">Software Engineer | Full-Stack .NET & Angular Developer </h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate software engineer with experience in building web applications and APIs using .NET technologies. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h3>
+<h3 align="left">I'm a software engineer with experience in developing scalable, secure, and high-performance web applications using ASP.NET Core and Angular to deliver modern solutions. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h3>
 
 ###
 
@@ -24,6 +24,9 @@
   </a>
   <a href="mailto:itzahmedsamir@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/+201020090444" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
