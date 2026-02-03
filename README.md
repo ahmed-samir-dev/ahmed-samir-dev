@@ -5,8 +5,8 @@
 <h3 align="center">Software Engineer | Full-Stack .NET & Angular Developer | Competitive Programmer </h3>
 
 ###
-
-<img align="right" height="195" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
+<!-- <img align="right" alt="Coding" src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" data-canonical-src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage"> -->
+<img align="right" height="200" width="200" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
 
 ###
 
