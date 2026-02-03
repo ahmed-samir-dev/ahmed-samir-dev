@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">Software Engineer | Full-Stack .NET & Angular Developer </h3>
+<h3 align="center">Software Engineer | Full-Stack .NET & Angular Developer | Competitive Programmer </h3>
 
 ###
 
-<img align="right" height="185" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
+<img align="right" height="195" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
 
 ###
 
@@ -19,14 +19,17 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/its-ahmed-samir" target="_blank">
+  <a href="https://www.linkedin.com/in/swe-ahmed-samir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:itzahmedsamir@gmail.com" target="_blank">
+  <a href="mailto:swe.ahmed.samir@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/+201020090444" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/ahmed.samir.swe" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="facebook logo"  />
   </a>
 </div>
 
