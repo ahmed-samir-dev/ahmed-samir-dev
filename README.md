@@ -53,10 +53,15 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="35" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35" />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
   <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="35" />
+  <img width="7" />
+  <br/>  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" alt="html5 logo"  />
@@ -71,11 +76,16 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="35" alt="docker logo"  />
+  <img width="7" />
+  
+
+
+
+
+
 </div>
 
 ###
